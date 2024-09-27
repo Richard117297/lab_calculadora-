@@ -22,3 +22,11 @@ public double resta (){
 
 
 }
+
+public double potencia (){
+    double potencia = a ** b;
+     system.out.println("la potencia es : " + potencia );
+     return potencia;
+}
+
+}
