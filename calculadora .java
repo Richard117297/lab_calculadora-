@@ -15,7 +15,7 @@ public double suma(){
 
 public double resta (){
     double resta = a - b ;
-    system.out.println("la resta es : " + resta );
+    system.out.println("la resta es :  " + resta );
     return resta;
     
 
