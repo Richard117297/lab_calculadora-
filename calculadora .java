@@ -93,4 +93,12 @@ public double multiplicacion (){
 
 }
 
+public double division () {
+
+double division = a / b;
+
+ system.out.println("la division es : " + dicivion );
+     return division;
+}
+
 }
